@@ -18,3 +18,4 @@ The perfomance of the model is shown in Figure 2 below. The model converged with
 
 ## Disease & Pest Detection Model
 This is classification model was trained to identify four classes in apple: apple scab, black rot, cedar apple rust, and healthy. The training performance of the model is shown in Figure 3:
+![ROC_curve](images/roc_apple.png)
