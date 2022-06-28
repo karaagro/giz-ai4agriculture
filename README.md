@@ -14,5 +14,8 @@ This model is an image classfication model that predicts the maturity class of d
 The perfomance of the model is shown in Figure 2 below. The model converged with a validation accuracy of 86.93%
 ![Accuracy_plot](images/accuracy_plot.png)
 
+
+**Figure 2**: model training and validation accuracy over training
+
 ## Disease & Pest Detection Model
 This is classification model was trained to identify four classes in apple: apple scab, black rot, cedar apple rust, and healthy. The training performance of the model is shown in Figure 3:
