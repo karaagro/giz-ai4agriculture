@@ -5,6 +5,7 @@ This repo contains some open source AI models as part of the project between GIZ
 ## Yield Estimation Model
 This model is an image classfication model that predicts the maturity class of dates fruits. The training dataset feature three maturity classes: Immature, Tamar, and Kalal (Figure 1).
 
+![Maturity_Classes](images/data_maturity_classes.png)
 
 The perfomance of the model is shown in Figure 2 below. The model converged with a validation accuracy of 86.93%
 
